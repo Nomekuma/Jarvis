@@ -32,13 +32,9 @@ from JarvisUi import Ui_JarvisUI
 isort.file("JARVIS.py")#to sort Import libraries
 
 
-VOICES = {
-    'en':  'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0',
-    'fr': 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_FR-FR_HORTENSE_11.0'
-}
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
-engine.setProperty('voice',VOICES) 
+engine.setProperty('voice',voices) 
 
 #Main classs where all the functiona are present
 class MainThread(QThread):
