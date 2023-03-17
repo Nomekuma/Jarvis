@@ -9,7 +9,7 @@ cd jarvis-main
 ```
 py JARVIS.py 
 ```
-   **OR**
+**`OR`**
 ```
 python JARVIS.py
 ```
