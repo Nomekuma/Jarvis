@@ -5,6 +5,7 @@ import os
 import sys
 import time
 import webbrowser
+
 import isort
 import numpy as np
 import psutil
