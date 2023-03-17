@@ -8,6 +8,10 @@ cd jarvis-main
 
 ```
 py JARVIS.py 
+
+`or`
+
+python JARVIS.py
 ```
 
 
