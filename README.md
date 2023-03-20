@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ## Contribution
 - Tushil
-- [Khavid](https://github.com/Hemlesh18)
+- [Khavind](https://github.com/Hemlesh18)
 - [Shabneez](https://github.com/Shab20)
 - [Martine](https://github.com/martine18)
 
