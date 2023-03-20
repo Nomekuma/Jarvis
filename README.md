@@ -41,8 +41,10 @@ pip install -r requirements.txt
 ```
 ***
 `Note:`**Check if path before installing requirement**
+***
 ### If Requirement not found
-`check:`**If path is correct**
+***
+**`check`****if path is correct**
 ```
 {Your_path}\Jarvis-jarvis\jarvis-main> 
                               ^
