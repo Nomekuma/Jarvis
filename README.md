@@ -39,6 +39,21 @@ deactivate
 ```
 pip install -r requirements.txt
 ```
+***
+`Note:`**Check if path before installing requirement**
+### If Requirement not found
+`check:`**If path is correct**
+```
+{Your_path}\Jarvis-jarvis\jarvis-main> 
+                              ^
+                              |
+                [Check that it is out of jarvis-main]
+```
+***
+### If it's on jarvis-main path
+```
+cd ..
+```
 # Table of contents
 
 ***
