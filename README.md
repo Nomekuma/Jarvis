@@ -5,7 +5,7 @@ Jarvis acts like a **personal assistant** that you can **communicate to** and gi
 
 
 ***
-## To run code
+* ## *To run code*
 ```
 cd jarvis-main
 ```
