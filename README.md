@@ -1,6 +1,10 @@
 # Jarvis
 Jarvis acts like a **personal assistant** that you can **communicate to** and give different **commands**.
 
+<img width="400" height="200" alt="Screenshot (8)" src="https://user-images.githubusercontent.com/122863540/229307106-9cb93092-56af-4ae3-839a-c0a71a368d2e.png"><img width="400" height="200" alt="Screenshot (9)" src="https://user-images.githubusercontent.com/122863540/229307342-404666ec-16fd-4c1d-a33a-5a34315dbd36.png">
+
+
+***
 ## To run code
 ```
 cd jarvis-main
