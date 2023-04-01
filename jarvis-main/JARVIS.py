@@ -547,7 +547,7 @@ class Main(QMainWindow):
        
     
     def startTask(self):
-        self.ui.movie = QtGui.QMovie(rf"{self.cpath}\UI\gif.gif")
+        self.ui.movie = QtGui.QMovie(rf"{self.cpath}\UI\gif.webp")
         self.ui.label_3.setMovie(self.ui.movie)
         self.ui.movie.start()        
         self.ui.movie = QtGui.QMovie(rf"{self.cpath}\UI\lines1.gif")
