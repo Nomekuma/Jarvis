@@ -1,100 +1,99 @@
 # Jarvis
-Jarvis acts like a **personal assistant** that you can **communicate** and give different **commands**.
 
-<img width="400" height="200" alt="Screenshot (8)" src="https://user-images.githubusercontent.com/122863540/229307106-9cb93092-56af-4ae3-839a-c0a71a368d2e.png"><img width="400" height="200" alt="Screenshot (9)" src="https://user-images.githubusercontent.com/122863540/229307342-404666ec-16fd-4c1d-a33a-5a34315dbd36.png">
+Jarvis is a personal assistant that allows you to communicate and issue various commands.
 
+![Screenshot 1](https://user-images.githubusercontent.com/122863540/229307106-9cb93092-56af-4ae3-839a-c0a71a368d2e.png)
+![Screenshot 2](https://user-images.githubusercontent.com/122863540/229307342-404666ec-16fd-4c1d-a33a-5a34315dbd36.png)
 
-***
-* ## *To run code*
+## Running the Code
+
+To run the code, follow these steps:
+
+1. Navigate to the `jarvis-main` directory:
 ```
 cd jarvis-main
 ```
-***
+
+2. Run the following command to execute the code:
 ```
-py JARVIS.py 
+py JARVIS.py
 ```
-**`OR`**
+**OR**
 ```
 python JARVIS.py
 ```
-***
 
+*Note: Consider using a virtual environment*
 
-
-**`Side Note:`** **Use virtual environment to save space**
-
-- to create the virtual environment
-
+- To create a virtual environment, use the following command:
 ```
 python -m venv .venv
 ```
 
-- to activate it
+- To activate the virtual environment, use this command:
 ```
 .\.venv\Scripts\activate
 ```
-- to deactivate
+
+- To deactivate the virtual environment, use this command:
 ```
 deactivate
 ```
 
-***
 ## Installation
+
+To install the required dependencies, run the following command:
 ```
 pip install -r requirements.txt
 ```
-***
-`Note:`**Check if path before installing requirement**
-***
-### If Requirement not found
-***
-**`Check`** **if path is correct**
+
+*Note: Make sure to check the path before installing the requirements.*
+
+### If Requirement is Not Found
+
+If you encounter an error stating that the requirement is not found, double-check the path as follows:
 ```
 {Your_path}\Jarvis-jarvis\jarvis-main> 
                               ^
                               |
-                [Check that it is out of jarvis-main]
+                [Make sure it is outside the jarvis-main directory]
 ```
-***
-### If it's on jarvis-main path
+
+If it is within the jarvis-main path, run the following command to navigate outside:
 ```
 cd ..
 ```
-# Table of contents
 
-***
-**Some commands you can ask Jarvis**
-***
+## Table of Contents
 
-| COMMAND | RESULT |
+Here are some commands you can ask Jarvis:
+
+| Command | Result |
 | :---:   | :---: | 
-| wake up | This command will wake jarvis up |
-| play a song | This command will play a song |
-| what is your age | A funny response from Jarvis |
-| time | This command will tell you the time |
-| hi/hello/heya/salut | Jarvis will respond to you |
-| joke | Jarvis will fetch a joke from a library |
-| date/today | This command tells you the current day |
-| silence {your response} | It will make Jarvis silent itself for a specific time  |
-| what is meant by {your response} | This command will search {your response} on Wikipedia |
-| Open GitHUB | It will open this github page |
-| open calculator/open paint/open discord/open note | It will open one of these apps |
-| close claculator/close paint/closecdiscord/close note | It will close one of these apps |
-| where am i | It will tell you your location |
-| Command prompt | This command will open the Command prompt |
-| take a screenshot | It will take a screenshot |
-| Volume up/down | Lower or increase Volume |
-| ip address | It will tell you your ip |
-| Weather | It will tell the weather |
-| News | It will give you the news |
-| Internet speed | This command will tell you your Internet speed |
-| bye bye jarvis | jarvis will respond to you |
-| Shut down/ restart/condition/sleep | It will perform one of these actions |
+| wake up | Wake Jarvis up |
+| play a song | Play a song |
+| what is your age | Receive a funny response from Jarvis |
+| time | Get the current time |
+| hi/hello/heya/salut | Receive a response from Jarvis |
+| joke | Fetch a joke from a library |
+| date/today | Get the current day |
+| silence {your response} | Make Jarvis silent for a specific time |
+| what is meant by {your response} | Search {your response} on Wikipedia |
+| Open GitHub | Open this GitHub page |
+| open calculator/open paint/open discord/open note | Open one of these apps |
+| close calculator/close paint/close discord/close note | Close one of these apps |
+| where am i | Get your location |
+| Command prompt | Open the Command prompt |
+| take a screenshot | Take a screenshot |
+| Volume up/down | Adjust the volume |
+| ip address | Get your IP address |
+| Weather | Get the weather |
+| News | Get the news |
+| Internet speed | Check your Internet speed |
+| bye bye Jarvis | Receive a response from Jarvis |
+| Shut down/restart/condition/sleep | Perform one of these actions |
 
-***
-**`Note:`** **for some of these command to work add your own path way**
-***
-
+*Note: For some of these commands to work, add your own pathway.*
 
 ## Contribution
 - Tushil
@@ -102,10 +101,9 @@ cd ..
 - [Shabneez](https://github.com/Shab20)
 - [Martine](https://github.com/martine18)
 
-## Lisence
-```MIT```
-Copyright (c) **TEAM KTSM**
+## License
+MIT
 
-<img width="50px" src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm logo."/>
+© **TEAM KTSM**
 
-
+![PyCharm logo](https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg)
